@@ -1,4 +1,4 @@
-## Sample Project
+## Elham Stormkit Sample Project
 
 This is an example project to be deployed on [Stormkit](https://www.stormkit.io). 
 
